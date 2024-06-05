@@ -1,0 +1,42 @@
+<resources>
+    /*Image Titles*/
+    <string name="app_name">BusogChan</string>
+    <string name="menu_1">Food Menu #1</string>
+    <string name="menu_2">Food Menu #2</string>
+    <string name="menu_3">Food Menu #3</string>
+    <string name="menu_4">Food Menu #4</string>
+    <string name="menu_5">Food Menu #5</string>
+    <string name="menu_6">Food Menu #6</string>
+    <string name="menu_7">Food Menu #7</string>
+    <string name="menu_8">Food Menu #8</string>
+    <string name="menu_9">Food Menu #9</string>
+
+
+
+
+
+
+    /*Button Text*/
+    <string name="View">View</string>
+
+
+    /*Details*/
+    <string name="detail1">Sisig Burger</string>
+
+    <string name="detail2">Burger With Egg</string>
+
+    <string name="detail3">Chicken &amp; Carbonara</string>
+
+    <string name="detail4">Burger With Fries</string>
+
+    <string name="detail5">Nacho Fries</string>
+
+    <string name="detail6">Cheesy Footlong</string>
+
+    <string name="detail7">Lechon Kawali Alacarte</string>
+
+    <string name="detail8">Nacho Supreme</string>
+
+    <string name="detail9">Liempo</string>
+
+</resources>
